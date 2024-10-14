@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/first-ecommerce-web-app/static/css/main.81872325.css",
+    "main.js": "/first-ecommerce-web-app/static/js/main.ce5ac551.js",
+    "static/media/chillcarfrog.png": "/first-ecommerce-web-app/static/media/chillcarfrog.e6386b87844153b4a5c8.png",
+    "static/media/bearmug.png": "/first-ecommerce-web-app/static/media/bearmug.d95c2a1c1f7b6d3289c6.png",
+    "static/media/charlotte.png": "/first-ecommerce-web-app/static/media/charlotte.374e5e7ad79ae40838ca.png",
+    "static/media/camera.png": "/first-ecommerce-web-app/static/media/camera.ce4b124c79b009629de9.png",
+    "static/media/supercoolglasses.png": "/first-ecommerce-web-app/static/media/supercoolglasses.5c239473fbfe3e1f593c.png",
+    "static/media/iguana.png": "/first-ecommerce-web-app/static/media/iguana.038417b11226f880bba3.png",
+    "static/media/headphones.png": "/first-ecommerce-web-app/static/media/headphones.28278615cd8bff97159a.png",
+    "static/media/cheeringsmitski.png": "/first-ecommerce-web-app/static/media/cheeringsmitski.85dd4426310fcc273c70.png",
+    "static/media/orb.png": "/first-ecommerce-web-app/static/media/orb.4d70632cb4e2c2c826b6.png",
+    "static/media/makima.png": "/first-ecommerce-web-app/static/media/makima.b7f64a26375028e4bbc8.png",
+    "static/media/buldak.png": "/first-ecommerce-web-app/static/media/buldak.78f23dfec0e43fb60e37.png",
+    "static/media/steak.png": "/first-ecommerce-web-app/static/media/steak.ae8e0125b413a05c8e71.png",
+    "index.html": "/first-ecommerce-web-app/index.html",
+    "main.81872325.css.map": "/first-ecommerce-web-app/static/css/main.81872325.css.map",
+    "main.ce5ac551.js.map": "/first-ecommerce-web-app/static/js/main.ce5ac551.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81872325.css",
+    "static/js/main.ce5ac551.js"
+  ]
+}
